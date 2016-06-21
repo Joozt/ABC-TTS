@@ -5,6 +5,12 @@
 
 ![Screenshot](Screenshot.png)
 
+![Touch](UseCase_Touch.png)
+![Tap](UseCase_Tap.png)
+![Swipe](UseCase_Swipe.png)
+![Touch and Move](UseCase_Touch_and_Move.png)
+
+
 
 TODO: Make all gesture parameters configurable, see video
  
