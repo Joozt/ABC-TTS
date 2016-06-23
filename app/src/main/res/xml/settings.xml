@@ -1,0 +1,62 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_alphabet_start_delay"
+        android:inputType="number"
+        android:key="alphabet_start_delay"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_alphabet_start_delay"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_alphabet_character_delay"
+        android:inputType="number"
+        android:key="alphabet_character_delay"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_alphabet_character_delay"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_alphabet_character_min_delay"
+        android:inputType="number"
+        android:key="alphabet_character_min_delay"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_alphabet_character_min_delay"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_alphabet_character_max_delay"
+        android:inputType="number"
+        android:key="alphabet_character_max_delay"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_alphabet_character_max_delay"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_alphabet_character_delay_step_size"
+        android:inputType="number"
+        android:key="alphabet_character_delay_step_size"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_alphabet_character_delay_step_size"/>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="repeat_selected"
+        android:title="@string/pref_title_repeat_selected"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_repeat_selected_delay"
+        android:inputType="number"
+        android:key="repeat_selected_delay"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_repeat_selected_delay"/>
+
+</PreferenceScreen>

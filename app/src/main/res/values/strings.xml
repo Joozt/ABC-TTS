@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ABC-TTS</string>
+    <string name="alphabet_optimal">Alphabet in optimal order</string>
+    <string name="alphabet_normal">Alphabet in normal order</string>
+    <string name="title_activity_settings">ABC-TTS Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_title_alphabet_start_delay">Delay before starting to speak alphabet (milliseconds)</string>
+    <string name="pref_default_alphabet_start_delay">500</string>
+    <string name="pref_title_alphabet_character_delay">Delay between characters when speaking alphabet (milliseconds)</string>
+    <string name="pref_default_alphabet_character_delay">400</string>
+    <string name="pref_title_alphabet_character_min_delay">Minimal delay between characters (milliseconds), applicable when changing speed while speaking alphabet</string>
+    <string name="pref_default_alphabet_character_min_delay">200</string>
+    <string name="pref_title_alphabet_character_max_delay">Maximal delay between characters (milliseconds), applicable when changing speed while speaking alphabet</string>
+    <string name="pref_default_alphabet_character_max_delay">600</string>
+    <string name="pref_title_alphabet_character_delay_step_size">Step size when changing delay between characters (milliseconds), applicable when changing speed while speaking alphabet</string>
+    <string name="pref_default_alphabet_character_delay_step_size">10</string>
+    <string name="pref_title_repeat_selected">Repeat selected character?</string>
+    <string name="pref_title_repeat_selected_delay">Delay before speaking selected character (milliseconds)</string>
+    <string name="pref_default_repeat_selected_delay">400</string>
+</resources>
