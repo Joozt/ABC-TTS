@@ -35,3 +35,6 @@ Phone:
  - [ ] Good speaker required (HTC BoomSound?)
  - [ ] Front-facing speaker
  - [ ] Wireless change or easy to use charging dock
+
+---
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
